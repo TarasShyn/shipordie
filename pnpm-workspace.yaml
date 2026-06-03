@@ -1,0 +1,8 @@
+# Not a monorepo — this file only carries pnpm settings (pnpm 11 reads them here).
+# No `packages:` field. Allow these transitive deps to run install scripts
+# (prebuilt binaries): workerd → OpenNext preview/deploy, esbuild → bundling,
+# sharp → next/image.
+allowBuilds:
+  esbuild: true
+  sharp: true
+  workerd: true
