@@ -5,7 +5,16 @@
     "handle": "marclou",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/69ffbbfe6a05c47b34679f8a/portrait-1780117709262.png",
     "startupsShipped": 6,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://marclou.com",
+      "https://datafa.st",
+      "https://trustmrr.com",
+      "https://shipfa.st",
+      "https://codefa.st",
+      "https://supershrimp.io"
+    ],
+    "website": "https://marclou.com"
   },
   {
     "slug": "jack-friks",
@@ -13,15 +22,304 @@
     "handle": "jackfriks",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a0079b76a05c47b346aa215/portrait-1779742163747.png",
     "startupsShipped": 4,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://lovelee-app.com",
+      "https://chromewebstore.google.com/detail/timeline-blocker-for-xtwi/cejgfndjcfidbiofgdijhonenpechbjm",
+      "https://post-bridge.com"
+    ],
+    "website": "https://lovelee-app.com"
+  },
+  {
+    "slug": "captainshazza",
+    "name": "CaptainShazza",
+    "handle": "Shironbuilds",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a27b311ddb582b7c118094f/portrait-1780988396126.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "buddy-hadry",
+    "name": "Buddy Hadry",
+    "handle": "buddyhadry",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a2771fbddb582b7c1170901/portrait-1780970582996.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "troels-im",
+    "name": "troels.im",
+    "handle": "troels_im",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a2716eaddb582b7c116ff9b/portrait-1780948908870.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://compoundcoders.com"
+    ],
+    "website": "https://compoundcoders.com"
+  },
+  {
+    "slug": "richard-gerum",
+    "name": "Richard Gerum",
+    "handle": "RichardGerum",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a27033eddb582b7c116fdb8/portrait-1780941732721.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://verbalane.com"
+    ],
+    "website": "https://verbalane.com"
+  },
+  {
+    "slug": "jon-mccutchen",
+    "name": "Jon McCutchen",
+    "handle": "Jon_McCutchen",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a26e37cddb582b7c116fb19/portrait-1780939623264.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://vruum.ai"
+    ],
+    "website": "https://vruum.ai"
+  },
+  {
+    "slug": "fidel-ecco",
+    "name": "Fidel Ecco",
+    "handle": "fidel_ecco",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a25ddf6ddb582b7c1157f31/portrait-1780867571609.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://hairstyleview.com"
+    ],
+    "website": "https://hairstyleview.com"
+  },
+  {
+    "slug": "ezzaky-ab",
+    "name": "Ezzaky Ab",
+    "handle": "ezzakyyy",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a259bb1ddb582b7c115694b/portrait-1780852516622.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://smtpkit.com"
+    ],
+    "website": "https://smtpkit.com"
+  },
+  {
+    "slug": "pablo",
+    "name": "pablo",
+    "handle": "SwissSocrates",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a259950ddb582b7c1156929/portrait-1780850085989.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://sonoma.sh"
+    ],
+    "website": "https://sonoma.sh"
+  },
+  {
+    "slug": "john-blackforge",
+    "name": "John BlackForge",
+    "handle": "ImForja",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a257a58ddb582b7c1154be9/portrait-1780842831293.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "omaarrrrghh",
+    "name": "Omaarrrrghh",
+    "handle": "thelifeofmaro",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a254a68ddb582b7c1154797/portrait-1780831124132.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://indiecator.com"
+    ],
+    "website": "https://indiecator.com"
+  },
+  {
+    "slug": "sunder",
+    "name": "Sunder",
+    "handle": "talk2sunder",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a24cdf0ddb582b7c1154119/portrait-1780797344027.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "codehacker",
+    "name": "codehacker",
+    "handle": "codehacker",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a24843bddb582b7c1153d0e/portrait-1780778437009.png",
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://scam.doctor",
+      "https://securenow.ai"
+    ],
+    "website": "https://scam.doctor"
+  },
+  {
+    "slug": "frida-ruh",
+    "name": "Frida Ruh",
+    "handle": "FridaRuh",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a23aca2ddb582b7c1153136/portrait-1780722961414.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://close.energy"
+    ],
+    "website": "https://close.energy"
+  },
+  {
+    "slug": "lucas-araujo",
+    "name": "Lucas Araujo",
+    "handle": "nicecache",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a23a1f7ddb582b7c1152f62/portrait-1780720496971.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "tony",
+    "name": "tony",
+    "handle": "yortxt",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a236314ddb582b7c1152a25/portrait-1780704360155.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://calchi.ai"
+    ],
+    "website": "https://calchi.ai"
+  },
+  {
+    "slug": "blockblane",
+    "name": "blockblane",
+    "handle": "blockblane",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a22cb3dddb582b7c1151ab7/portrait-1780671153377.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://toptile.io"
+    ],
+    "website": "https://toptile.io"
+  },
+  {
+    "slug": "adam",
+    "name": "Adam",
+    "handle": "adamkalimi",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a229d59ddb582b7c1151638/portrait-1780687941413.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://proko.ai"
+    ],
+    "website": "https://proko.ai"
+  },
+  {
+    "slug": "jake-north",
+    "name": "Jake North",
+    "handle": "andmyjake",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a21501fddb582b7c114a5db/portrait-1780569099818.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://proofling.com"
+    ],
+    "website": "https://proofling.com"
+  },
+  {
+    "slug": "pratik-kadam",
+    "name": "Pratik Kadam",
+    "handle": "PratikKadam_",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a21431cddb582b7c114a48d/portrait-1780782856632.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://crdible.io"
+    ],
+    "website": "https://crdible.io"
+  },
+  {
+    "slug": "himmy-the-third",
+    "name": "Himmy The Third",
+    "handle": "himmythethird",
+    "portraitUrl": "",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://thanksbro.lovable.app"
+    ],
+    "website": "https://thanksbro.lovable.app"
+  },
+  {
+    "slug": "bro",
+    "name": "Bro",
+    "handle": "JustSuperHuman_",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a20d440ddb582b7c1149ddc/portrait-1780537181131.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://justgains.com"
+    ],
+    "website": "https://justgains.com"
+  },
+  {
+    "slug": "spe",
+    "name": "spe",
+    "handle": "stevenpemch",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a20cf33ddb582b7c1149da2/portrait-1780597339318.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://usecalamus.com"
+    ],
+    "website": "https://usecalamus.com"
+  },
+  {
+    "slug": "harish",
+    "name": "Harish",
+    "handle": "harishchouhan",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a2023782294d4f257c78e19/portrait-1780491639734.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://trigv.com"
+    ],
+    "website": "https://trigv.com"
   },
   {
     "slug": "tunimba",
     "name": "Tunimba",
     "handle": "Tunimba",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a2007602294d4f257c77b6e/portrait-1780487548443.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 12,
+    "status": "On Deck",
+    "websites": [
+      "https://apps.apple.com/app/id6745804307",
+      "https://apps.apple.com/us/app/ai-baby-generator-future-kid/id6759849805",
+      "https://apps.apple.com/us/app/bracesoff-braces-remover-ai/id6759583426",
+      "https://apps.apple.com/us/app/beard-filter-mustache-try-on/id6758737900",
+      "https://apps.apple.com/us/app/ramadan-fast-track-weight-loss/id6758867116",
+      "https://apps.apple.com/us/app/glare-remover-from-glasses/id6752567334",
+      "https://apps.apple.com/us/app/hairstyle-try-on-hairfy-ai/id6747626699",
+      "https://apps.apple.com/us/app/old-picture-restoration-phix/id6746735198",
+      "https://apps.apple.com/us/app/ai-photo-generator-art-maker/id6743885144",
+      "https://apps.apple.com/us/app/food-calorie-tracker-ai-foodr/id6742585033",
+      "https://apps.apple.com/us/app/qreator-qr-code-generator/id6737692733",
+      "https://apps.apple.com/us/app/112-emergency-numbers-t%C3%BCrkiye/id6505045783",
+      "https://apps.apple.com/us/app/up-mental-health-psychology/id6472971185"
+    ],
+    "website": "https://apps.apple.com/app/id6745804307"
   },
   {
     "slug": "imnotapirate",
@@ -29,7 +327,11 @@
     "handle": "ImNotAV1rus",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1fe6eb2294d4f257c75d49/portrait-1780475834339.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://theorycraft-trading.ai"
+    ],
+    "website": "https://theorycraft-trading.ai"
   },
   {
     "slug": "niko",
@@ -37,15 +339,36 @@
     "handle": "_nikoqq",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1fb6762294d4f257c75a8d/portrait-1780473801158.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "robert-g",
     "name": "Robert G",
     "handle": "nxgntools",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1fb4252294d4f257c75a6d/portrait-1780462864067.png",
+    "startupsShipped": 3,
+    "status": "On Deck",
+    "websites": [
+      "https://chessie.nxgntools.com",
+      "https://viplist.nxgntools.com",
+      "https://free-pdf-signer.nxgntools.com",
+      "https://nxgntools.com"
+    ],
+    "website": "https://chessie.nxgntools.com"
+  },
+  {
+    "slug": "skirmantas-januskas",
+    "name": "Skirmantas Januskas",
+    "handle": "sjanuskas",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1f4ed62294d4f257c75255/portrait-1780612464301.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://youshallcook.com"
+    ],
+    "website": "https://youshallcook.com"
   },
   {
     "slug": "dr-vega-punk",
@@ -53,7 +376,33 @@
     "handle": "IvashinkoMoses",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1f33782294d4f257c75052/portrait-1780430064287.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://handsy.io"
+    ],
+    "website": "https://handsy.io"
+  },
+  {
+    "slug": "seb",
+    "name": "Seb",
+    "handle": "SebasEstra",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1f23192294d4f257c74eff/portrait-1780504471642.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "roosterfish",
+    "name": "RoosterFish",
+    "handle": "roosterfishdev",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1f1d6a2294d4f257c74e9a/portrait-1780501929479.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://ezlaunch.app"
+    ],
+    "website": "https://ezlaunch.app"
   },
   {
     "slug": "guisong-fu",
@@ -61,15 +410,23 @@
     "handle": "guis_fu",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1f04002294d4f257c74b90/portrait-1780473048007.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://thetimeboxing.com"
+    ],
+    "website": "https://thetimeboxing.com"
   },
   {
     "slug": "alepbuilds",
     "name": "alepbuilds",
     "handle": "alepbuilds",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1ef94d2294d4f257c74a0d/portrait-1780416059957.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://echosift.io"
+    ],
+    "website": "https://echosift.io"
   },
   {
     "slug": "tristan",
@@ -77,7 +434,11 @@
     "handle": "tris_does_stuff",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1ee0ed2294d4f257c74806/portrait-1780480722261.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://brainflow.tech"
+    ],
+    "website": "https://brainflow.tech"
   },
   {
     "slug": "chico-charlesworth",
@@ -85,7 +446,11 @@
     "handle": "ccharlesworth",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1ec75d2294d4f257c74571/portrait-1780402822273.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://teddy-bear-math.netlify.app/app"
+    ],
+    "website": "https://teddy-bear-math.netlify.app/app"
   },
   {
     "slug": "bartu",
@@ -93,23 +458,37 @@
     "handle": "bartubozkurt_",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1eb6e32294d4f257c743c1/portrait-1780398417935.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "garm",
     "name": "Garm",
     "handle": "garmdotcom",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1e97da2294d4f257c7410e/portrait-1780390227910.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://extraheadroom.com",
+      "https://criticaster.com"
+    ],
+    "website": "https://extraheadroom.com"
   },
   {
     "slug": "patrick",
     "name": "Patrick",
     "handle": "pgerrits",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1e8c992294d4f257c74074/portrait-1780387110475.png",
-    "startupsShipped": 1,
-    "status": "On Deck"
+    "startupsShipped": 3,
+    "status": "On Deck",
+    "websites": [
+      "https://apps.apple.com/app/id6776399897",
+      "https://flowbasehq.com",
+      "https://floynk.com",
+      "https://envmanager.com"
+    ],
+    "website": "https://apps.apple.com/app/id6776399897"
   },
   {
     "slug": "jc",
@@ -117,7 +496,11 @@
     "handle": "jcthekoreanguy",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1e34c32294d4f257c73a41/portrait-1780454795870.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://notistudio.com"
+    ],
+    "website": "https://notistudio.com"
   },
   {
     "slug": "patrick-h",
@@ -125,7 +508,23 @@
     "handle": "pathof_me",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1e1ae62294d4f257c738ce/portrait-1780387724647.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://tenshoku.co"
+    ],
+    "website": "https://tenshoku.co"
+  },
+  {
+    "slug": "floofycode",
+    "name": "FloofyCode",
+    "handle": "floofycode",
+    "portraitUrl": "",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://voxresume.com"
+    ],
+    "website": "https://voxresume.com"
   },
   {
     "slug": "nikohbuilds",
@@ -133,7 +532,11 @@
     "handle": "nikohbuilds",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1e04a62294d4f257c737ad/portrait-1780352344646.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://buildhappy.ai"
+    ],
+    "website": "https://buildhappy.ai"
   },
   {
     "slug": "bit",
@@ -141,7 +544,9 @@
     "handle": "Bit_DEVs",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "rob-rock",
@@ -149,7 +554,9 @@
     "handle": "itsRobRock",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1dcd022294d4f257c733a0/portrait-1780445367612.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "mikael-vallenet",
@@ -157,7 +564,11 @@
     "handle": "_mvallenet",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1dbc252294d4f257c731f7/portrait-1780333752090.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://vibebattle.io"
+    ],
+    "website": "https://vibebattle.io"
   },
   {
     "slug": "nish",
@@ -165,7 +576,11 @@
     "handle": "NishantRArora",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1d95d62294d4f257c72f04/portrait-1780324164618.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://0509.in"
+    ],
+    "website": "https://0509.in"
   },
   {
     "slug": "lcslates",
@@ -173,7 +588,9 @@
     "handle": "LCSlates",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "jacob-wellinghoff",
@@ -181,7 +598,23 @@
     "handle": "binaryreality",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1d90282294d4f257c72e99/portrait-1780323237823.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://uicopilotc.om"
+    ],
+    "website": "https://uicopilotc.om"
+  },
+  {
+    "slug": "adrien-russo",
+    "name": "Adrien Russo",
+    "handle": "adrienrusso",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1d889b2294d4f257c72da5/portrait-1780503377530.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://searchflow.app"
+    ],
+    "website": "https://searchflow.app"
   },
   {
     "slug": "ayoub-moustaid",
@@ -189,7 +622,13 @@
     "handle": "mstdayoub",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1d829e2294d4f257c72d49/portrait-1780319602798.png",
     "startupsShipped": 3,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://tryhearit.com",
+      "https://nexpend.com",
+      "https://swiftship.dev"
+    ],
+    "website": "https://tryhearit.com"
   },
   {
     "slug": "jihoonh",
@@ -197,15 +636,21 @@
     "handle": "jihoonhci",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "philip",
     "name": "Philip",
-    "handle": "",
+    "handle": "becomingphilip",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1d77502294d4f257c72c7e/portrait-1780316069872.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://leadmonster.co"
+    ],
+    "website": "https://leadmonster.co"
   },
   {
     "slug": "nafi",
@@ -213,7 +658,12 @@
     "handle": "nafiul09",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1c70f22294d4f257c7164b/portrait-1780248952908.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://usebuildpress.com",
+      "https://stepcapture.com"
+    ],
+    "website": "https://usebuildpress.com"
   },
   {
     "slug": "sk",
@@ -221,7 +671,11 @@
     "handle": "Serhii_Klym",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1c53332294d4f257c714b0/portrait-1780242156342.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://vox.rizenhq.com"
+    ],
+    "website": "https://vox.rizenhq.com"
   },
   {
     "slug": "dany",
@@ -229,7 +683,11 @@
     "handle": "danykokk",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1bf92e2294d4f257c7109f/portrait-1780269861535.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://scrapeproxy.com"
+    ],
+    "website": "https://scrapeproxy.com"
   },
   {
     "slug": "tonnoz",
@@ -237,7 +695,11 @@
     "handle": "tonnoz",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1bf6df2294d4f257c7108f/portrait-1780217636973.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://slapmac.com/go"
+    ],
+    "website": "https://slapmac.com/go"
   },
   {
     "slug": "killianmaker",
@@ -245,7 +707,11 @@
     "handle": "makerkillian",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1bf4c12294d4f257c7107f/portrait-1780217261379.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://facem.gg"
+    ],
+    "website": "https://facem.gg"
   },
   {
     "slug": "pushpit",
@@ -253,7 +719,11 @@
     "handle": "Pushpit07",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1bf46c2294d4f257c7107b/portrait-1780217535219.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://carve.so"
+    ],
+    "website": "https://carve.so"
   },
   {
     "slug": "krishnan-sreeraman",
@@ -261,7 +731,11 @@
     "handle": "saisrk88",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1bd05a2294d4f257c70f49/portrait-1780208178181.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://brain-dump.co"
+    ],
+    "website": "https://brain-dump.co"
   },
   {
     "slug": "wade",
@@ -269,7 +743,9 @@
     "handle": "wade_owen_watts",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1b8ba62294d4f257c702b8/portrait-1780191548047.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "x47",
@@ -277,7 +753,9 @@
     "handle": "x47world",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1b72e72294d4f257c7004a/portrait-1780244197553.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "jihoon",
@@ -285,7 +763,11 @@
     "handle": "jihoonismyname",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1b524c2294d4f257c6fef8/portrait-1780175511336.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://draftable.studio"
+    ],
+    "website": "https://draftable.studio"
   },
   {
     "slug": "sarthak-shaurya",
@@ -293,7 +775,11 @@
     "handle": "alwaysSarthak",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1b51312294d4f257c6fec3/portrait-1780177301338.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://omnistudyai.com"
+    ],
+    "website": "https://omnistudyai.com"
   },
   {
     "slug": "drifty-zen",
@@ -301,7 +787,13 @@
     "handle": "ZennenLeggett",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1b19de2294d4f257c6fb64/portrait-1780161399995.png",
     "startupsShipped": 3,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://goalbar.app",
+      "https://gridtimetracker.com",
+      "https://getcommas.app"
+    ],
+    "website": "https://goalbar.app"
   },
   {
     "slug": "ted-yap",
@@ -309,23 +801,36 @@
     "handle": "iamtedyap",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1af10b2294d4f257c6edf0/portrait-1780150871584.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://thebossy.app"
+    ],
+    "website": "https://thebossy.app"
   },
   {
     "slug": "umer-farooq",
     "name": "Umer Farooq",
-    "handle": "_umer_sh",
+    "handle": "umership",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1ab1da2294d4f257c6eb54/portrait-1780151165475.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://v-1.design"
+    ],
+    "website": "https://v-1.design"
   },
   {
     "slug": "skein-paul",
     "name": "Skein-Paul",
     "handle": "SkeinLLC",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1a7ab32294d4f257c6e90f/portrait-1780121163866.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://wire.skein-platform.com/pti-wire",
+      "https://connector-forge.com"
+    ],
+    "website": "https://wire.skein-platform.com/pti-wire"
   },
   {
     "slug": "haze",
@@ -333,7 +838,9 @@
     "handle": "brendanhaze",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "bernard",
@@ -341,7 +848,11 @@
     "handle": "bernardjhuang",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a19f90b2294d4f257c6e26e/portrait-1780087420713.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://pixel-forge.net"
+    ],
+    "website": "https://pixel-forge.net"
   },
   {
     "slug": "enrique",
@@ -349,15 +860,23 @@
     "handle": "iturriagaayala",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a19c1942294d4f257c6dd8a/portrait-1780073798393.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://doneintwenty.app"
+    ],
+    "website": "https://doneintwenty.app"
   },
   {
     "slug": "pawel",
     "name": "Pawel",
     "handle": "pawel_888",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1988002294d4f257c6d7c8/portrait-1780058183208.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://subhunt.fyi"
+    ],
+    "website": "https://subhunt.fyi"
   },
   {
     "slug": "the-martian",
@@ -365,7 +884,11 @@
     "handle": "jerry543",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a193a6c2294d4f257c6d088/portrait-1780038814843.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://splitroom.themartian.app"
+    ],
+    "website": "https://splitroom.themartian.app"
   },
   {
     "slug": "will-bray-cotton",
@@ -373,7 +896,11 @@
     "handle": "willbraycotton",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a18c9b22294d4f257c6c5ee/portrait-1780011294063.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://stakehabit.app"
+    ],
+    "website": "https://stakehabit.app"
   },
   {
     "slug": "vignesh-aithal",
@@ -381,7 +908,11 @@
     "handle": "vigneshaithal_",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1851ab2294d4f257c6bad7/portrait-1779978934487.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://prati.app"
+    ],
+    "website": "https://prati.app"
   },
   {
     "slug": "agata-raap",
@@ -389,7 +920,12 @@
     "handle": "bugsntea",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a17f2602294d4f257c6b3e1/portrait-1779955227351.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://bugsntea.dev/form9",
+      "https://nagitimer.app"
+    ],
+    "website": "https://bugsntea.dev/form9"
   },
   {
     "slug": "daniel",
@@ -397,7 +933,11 @@
     "handle": "daniel_a_jm",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a17e15c2294d4f257c6b327/portrait-1779951140094.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://langladder.com"
+    ],
+    "website": "https://langladder.com"
   },
   {
     "slug": "joachim-chauvet",
@@ -405,7 +945,9 @@
     "handle": "JoachimChauvet",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1766832294d4f257c6acf2/portrait-1780089981069.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "stuart-blackler",
@@ -413,15 +955,24 @@
     "handle": "CodeWithStu",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1762a12294d4f257c6acc0/portrait-1779917640277.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://onehaus.app"
+    ],
+    "website": "https://onehaus.app"
   },
   {
     "slug": "girish-kotte",
     "name": "Girish Kotte",
     "handle": "gkotte1",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1759b22294d4f257c6ac49/portrait-1779915304998.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://foundershub.ai",
+      "https://tradershub.ninja"
+    ],
+    "website": "https://foundershub.ai"
   },
   {
     "slug": "captain-tommy",
@@ -429,7 +980,11 @@
     "handle": "TVanWelsenes",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1758f22294d4f257c6ac3d/portrait-1779916494023.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://learnfarsi.app"
+    ],
+    "website": "https://learnfarsi.app"
   },
   {
     "slug": "brian",
@@ -437,7 +992,11 @@
     "handle": "brianfofficial",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a174f602294d4f257c6ab48/portrait-1779912637513.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://retentioncheck.com"
+    ],
+    "website": "https://retentioncheck.com"
   },
   {
     "slug": "marco-elizalde",
@@ -445,7 +1004,11 @@
     "handle": "marcoETmx",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a172faf2294d4f257c6a8c6/portrait-1779904673012.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://shipli.st"
+    ],
+    "website": "https://shipli.st"
   },
   {
     "slug": "djjones",
@@ -453,7 +1016,9 @@
     "handle": "none",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a17257b2294d4f257c6a795/portrait-1779902017646.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "travelingtice",
@@ -461,15 +1026,30 @@
     "handle": "travelingtice",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1718782294d4f257c6a6a6/portrait-1779900281275.png",
     "startupsShipped": 3,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://mascotlyai.com",
+      "https://mapmytravels.app",
+      "https://slopgoggles.ticekralt.com",
+      "https://pdqe.net"
+    ],
+    "website": "https://mascotlyai.com"
   },
   {
     "slug": "lazar",
     "name": "Lazar",
     "handle": "lakikentaki",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1704372294d4f257c6a543/portrait-1779893660927.png",
-    "startupsShipped": 1,
-    "status": "On Deck"
+    "startupsShipped": 5,
+    "status": "On Deck",
+    "websites": [
+      "https://worldcupfantasy.app",
+      "https://play-sudoku-online-free.com",
+      "https://online-crossword-puzzles.com",
+      "https://lennyshub.lovable.app",
+      "https://february.lovable.app"
+    ],
+    "website": "https://worldcupfantasy.app"
   },
   {
     "slug": "olivier",
@@ -477,7 +1057,11 @@
     "handle": "",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a16f7eb2294d4f257c6a438/portrait-1779890277078.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://souk.team"
+    ],
+    "website": "https://souk.team"
   },
   {
     "slug": "sean-h",
@@ -485,31 +1069,46 @@
     "handle": "YInsured",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a16e5d12294d4f257c6a28c/portrait-1779885716577.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://motifkit.com"
+    ],
+    "website": "https://motifkit.com"
   },
   {
     "slug": "b1scu1tk1d",
     "name": "B1scu1tk1d",
     "handle": "_teddymagic",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a16dc5d2294d4f257c6a1d6/portrait-1779925292920.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://traceready.online",
+      "https://suitescrape.com"
+    ],
+    "website": "https://traceready.online"
   },
   {
     "slug": "matt-lok",
     "name": "Matt Lok",
     "handle": "themattlok",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a16c98a2294d4f257c6933c/portrait-1779878806933.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://slidedrift.com"
+    ],
+    "website": "https://slidedrift.com"
   },
   {
     "slug": "kamal",
     "name": "Kamal",
     "handle": "kamalkannan",
-    "portraitUrl": "",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a16bc032294d4f257c69283/portrait-1780512867456.png",
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "roberjet",
@@ -517,7 +1116,11 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a16a9b62294d4f257c68f62/portrait-1779872930905.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://01n.eu"
+    ],
+    "website": "https://01n.eu"
   },
   {
     "slug": "suutari",
@@ -525,7 +1128,9 @@
     "handle": "SuutariHeidi",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "teemu",
@@ -533,7 +1138,11 @@
     "handle": "https",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://skene.ai"
+    ],
+    "website": "https://skene.ai"
   },
   {
     "slug": "loris",
@@ -541,7 +1150,11 @@
     "handle": "lorisbot01",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1689722294d4f257c63c1e/portrait-1779863016132.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://launchcopy.io"
+    ],
+    "website": "https://launchcopy.io"
   },
   {
     "slug": "oscar-yiu",
@@ -549,7 +1162,12 @@
     "handle": "0scaryiu",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a166d342294d4f257c63a79/portrait-1779888498095.png",
     "startupsShipped": 2,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://notewing.me",
+      "https://mytreelings.com"
+    ],
+    "website": "https://notewing.me"
   },
   {
     "slug": "thomas-despin",
@@ -557,7 +1175,11 @@
     "handle": "ThomasDespin",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a16678a2294d4f257c63a43/portrait-1779867527451.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://hotelbase.ai"
+    ],
+    "website": "https://hotelbase.ai"
   },
   {
     "slug": "dev",
@@ -565,7 +1187,12 @@
     "handle": "grow_with_dev",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a164ef02294d4f257c63963/portrait-1779847064425.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://unchurn.dev",
+      "https://attributely.co"
+    ],
+    "website": "https://unchurn.dev"
   },
   {
     "slug": "ranga",
@@ -573,7 +1200,11 @@
     "handle": "https",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://devora.sh"
+    ],
+    "website": "https://devora.sh"
   },
   {
     "slug": "mad-dog-ishak",
@@ -581,7 +1212,11 @@
     "handle": "ronishak",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a163dde2294d4f257c6339e/portrait-1779843475544.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://namechai.com"
+    ],
+    "website": "https://namechai.com"
   },
   {
     "slug": "santiago-mu-oz",
@@ -589,7 +1224,9 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1627732294d4f257c6322e/portrait-1779837131398.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "dimitrios",
@@ -597,7 +1234,11 @@
     "handle": "dimitrios_pro",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a161c162294d4f257c62ff3/portrait-1779838812300.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://cosmo.humanizing.com"
+    ],
+    "website": "https://cosmo.humanizing.com"
   },
   {
     "slug": "nikolai-skor",
@@ -605,7 +1246,11 @@
     "handle": "nikolai_skor",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a161aed2294d4f257c62e79/portrait-1779834477976.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://hotkeyx.com"
+    ],
+    "website": "https://hotkeyx.com"
   },
   {
     "slug": "zach",
@@ -613,7 +1258,11 @@
     "handle": "heywhereszach",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a16186c2294d4f257c62950/portrait-1779942553697.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://agentdebt.ai"
+    ],
+    "website": "https://agentdebt.ai"
   },
   {
     "slug": "jesse-the-scallywag",
@@ -621,7 +1270,13 @@
     "handle": "heyfuturejesse",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1613eb2294d4f257c628bb/portrait-1779832733807.png",
     "startupsShipped": 2,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://framm.me",
+      "https://bumpbeats.heyfuturejesse.com",
+      "https://octalect.com"
+    ],
+    "website": "https://framm.me"
   },
   {
     "slug": "pomp",
@@ -629,7 +1284,11 @@
     "handle": "Pompeyyo4",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://rollapp.co"
+    ],
+    "website": "https://rollapp.co"
   },
   {
     "slug": "capt-holgotti",
@@ -637,31 +1296,52 @@
     "handle": "MrHolgotti",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "rahulk",
     "name": "RahulK",
     "handle": "rknkhanna",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1604462294d4f257c6262e/portrait-1779828014988.png",
-    "startupsShipped": 1,
-    "status": "On Deck"
+    "startupsShipped": 6,
+    "status": "On Deck",
+    "websites": [
+      "https://copymosaic.com",
+      "https://vibecoders.bio",
+      "https://provenideas.net",
+      "https://backlinkrocket.net",
+      "https://buildtheidea.net",
+      "https://nichetools.net",
+      "https://proventools.net"
+    ],
+    "website": "https://copymosaic.com"
   },
   {
     "slug": "vishnu",
     "name": "Vishnu",
     "handle": "an_engineer_log",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15fb632294d4f257c62488/portrait-1779825661299.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://agent37.com/cloud"
+    ],
+    "website": "https://agent37.com/cloud"
   },
   {
     "slug": "bengeekly",
     "name": "Bengeekly",
     "handle": "Bengeekly",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15ee0b2294d4f257c6213e/portrait-1779822652763.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://prodshort.com",
+      "https://mailwarm.com"
+    ],
+    "website": "https://prodshort.com"
   },
   {
     "slug": "x-litt",
@@ -669,7 +1349,9 @@
     "handle": "xlitt",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15eb972294d4f257c620de/portrait-1779821860794.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "victor",
@@ -677,7 +1359,11 @@
     "handle": "realvictorkung",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15d6652294d4f257c61b9a/portrait-1779986098613.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://podbrief.io"
+    ],
+    "website": "https://podbrief.io"
   },
   {
     "slug": "bamieater",
@@ -685,7 +1371,11 @@
     "handle": "bamieater",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15d5392294d4f257c61b70/portrait-1779816307576.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://promptplanner.app"
+    ],
+    "website": "https://promptplanner.app"
   },
   {
     "slug": "nswanix",
@@ -693,7 +1383,11 @@
     "handle": "nswanix",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15ce882294d4f257c61acd/portrait-1779940520501.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://slopdocs.ai"
+    ],
+    "website": "https://slopdocs.ai"
   },
   {
     "slug": "gvkhna",
@@ -701,15 +1395,23 @@
     "handle": "gvkhna",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15ce262294d4f257c61ac7/portrait-1779821471494.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://clawchrome.com"
+    ],
+    "website": "https://clawchrome.com"
   },
   {
     "slug": "dilie",
     "name": "Dilie",
     "handle": "diliecat",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15cdec2294d4f257c61ac4/portrait-1779814045080.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://invoicewatch.app"
+    ],
+    "website": "https://invoicewatch.app"
   },
   {
     "slug": "dviolite",
@@ -717,7 +1419,11 @@
     "handle": "dviolite",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15c8372294d4f257c619df/portrait-1779813359212.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://tethermind.app"
+    ],
+    "website": "https://tethermind.app"
   },
   {
     "slug": "emanuel-perez",
@@ -725,7 +1431,11 @@
     "handle": "emanperez28",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15c5dc2294d4f257c619ba/portrait-1779811897624.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://helloufo.app"
+    ],
+    "website": "https://helloufo.app"
   },
   {
     "slug": "hansy",
@@ -733,7 +1443,11 @@
     "handle": "laxbrownie",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15c31f2294d4f257c61969/portrait-1779812000707.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://hiitplay.fit"
+    ],
+    "website": "https://hiitplay.fit"
   },
   {
     "slug": "captain-kris",
@@ -741,15 +1455,26 @@
     "handle": "kbezbailis",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15c0372294d4f257c61940/portrait-1779810770118.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://customcarmods.ai"
+    ],
+    "website": "https://customcarmods.ai"
   },
   {
     "slug": "mehdi-ben-haddou",
     "name": "Mehdi Ben Haddou",
     "handle": "mehdibhaddou",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15bf732294d4f257c6192d/portrait-1779810259948.png",
-    "startupsShipped": 3,
-    "status": "On Deck"
+    "startupsShipped": 4,
+    "status": "On Deck",
+    "websites": [
+      "https://tweet.rip",
+      "https://polymrr.com",
+      "https://homefast.cy",
+      "https://chessigma.com"
+    ],
+    "website": "https://tweet.rip"
   },
   {
     "slug": "dennis",
@@ -757,7 +1482,11 @@
     "handle": "dennis_kortsch",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15bedf2294d4f257c61925/portrait-1779821058235.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://extraktor.ai"
+    ],
+    "website": "https://extraktor.ai"
   },
   {
     "slug": "daniel-suncost",
@@ -765,7 +1494,11 @@
     "handle": "suncostlabs",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15bd682294d4f257c61910/portrait-1779812836640.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://persona.farm"
+    ],
+    "website": "https://persona.farm"
   },
   {
     "slug": "grissypoo",
@@ -773,15 +1506,23 @@
     "handle": "TruePatriot_47",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15bc302294d4f257c61905/portrait-1779854933293.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://playopenup.com"
+    ],
+    "website": "https://playopenup.com"
   },
   {
     "slug": "rohit-changediya",
     "name": "Rohit Changediya",
     "handle": "rohitcbuilds",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15b8962294d4f257c617d8/portrait-1779808738029.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://insitegpt.com"
+    ],
+    "website": "https://insitegpt.com"
   },
   {
     "slug": "nihdao",
@@ -789,7 +1530,11 @@
     "handle": "nihdao",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15b3b72294d4f257c61783/portrait-1779807536396.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://wandercoon.com"
+    ],
+    "website": "https://wandercoon.com"
   },
   {
     "slug": "kenley-browne",
@@ -797,7 +1542,11 @@
     "handle": "kenleybrowne",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15b2982294d4f257c6176b/portrait-1779807068514.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://tothevoid.com"
+    ],
+    "website": "https://tothevoid.com"
   },
   {
     "slug": "deidei",
@@ -805,7 +1554,23 @@
     "handle": "_deidei",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15b23c2294d4f257c6175c/portrait-1779807283820.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://vialtracker.health"
+    ],
+    "website": "https://vialtracker.health"
+  },
+  {
+    "slug": "marcelo",
+    "name": "Marcelo",
+    "handle": "marcelo_earth",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15b1fa2294d4f257c61758/portrait-1780718433914.png",
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://advibesor.com"
+    ],
+    "website": "https://advibesor.com"
   },
   {
     "slug": "jacob",
@@ -813,7 +1578,9 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15b1952294d4f257c61749/portrait-1779806692514.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "arthur-duarte",
@@ -821,7 +1588,11 @@
     "handle": "arthrduarte",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15ad132294d4f257c6170c/portrait-1779808645936.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://madalena.co"
+    ],
+    "website": "https://madalena.co"
   },
   {
     "slug": "green-light-enjoyer",
@@ -829,7 +1600,11 @@
     "handle": "GatsbyMaxxer",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15ab182294d4f257c616dd/portrait-1779930790146.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://magicmovie.ai"
+    ],
+    "website": "https://magicmovie.ai"
   },
   {
     "slug": "ahoy-matey",
@@ -837,7 +1612,9 @@
     "handle": "",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "yvo",
@@ -845,7 +1622,11 @@
     "handle": "YvoCilon",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15a8332294d4f257c6168e/portrait-1779807961099.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://fitordie.app"
+    ],
+    "website": "https://fitordie.app"
   },
   {
     "slug": "webinspect",
@@ -853,7 +1634,12 @@
     "handle": "WebInspectInc",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15a56a2294d4f257c6164a/portrait-1779834005285.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://sellyourjunk.online",
+      "https://obsidian.rocks/simple-systems-for-obsidian"
+    ],
+    "website": "https://sellyourjunk.online"
   },
   {
     "slug": "trebuh",
@@ -861,7 +1647,11 @@
     "handle": "iamtrebuh",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://capabase.ai"
+    ],
+    "website": "https://capabase.ai"
   },
   {
     "slug": "kenneth-foo",
@@ -869,7 +1659,11 @@
     "handle": "kenbuildsalone",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15a08c2294d4f257c615fd/portrait-1779804021379.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://trackmy.codes"
+    ],
+    "website": "https://trackmy.codes"
   },
   {
     "slug": "martin-tale",
@@ -877,7 +1671,11 @@
     "handle": "MartinTale",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a159fde2294d4f257c615ed/portrait-1779802182303.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://snailwalk.app"
+    ],
+    "website": "https://snailwalk.app"
   },
   {
     "slug": "drew",
@@ -885,7 +1683,11 @@
     "handle": "drewautomates",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a159f0a2294d4f257c615e3/portrait-1779803108769.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://noverload.com"
+    ],
+    "website": "https://noverload.com"
   },
   {
     "slug": "slow-chaz",
@@ -893,23 +1695,39 @@
     "handle": "slowchaz",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15903b2294d4f257c61463/portrait-1779798879506.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://selfknowledge.app"
+    ],
+    "website": "https://selfknowledge.app"
   },
   {
     "slug": "ori",
     "name": "Ori",
     "handle": "the_real_ori",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a158f632294d4f257c6143a/portrait-1779819087476.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://kaltalk.com"
+    ],
+    "website": "https://kaltalk.com"
   },
   {
     "slug": "skelleyboy",
     "name": "Skelleyboy",
     "handle": "dannyskelley",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a158f312294d4f257c61435/portrait-1779798267428.png",
-    "startupsShipped": 3,
-    "status": "On Deck"
+    "startupsShipped": 5,
+    "status": "On Deck",
+    "websites": [
+      "https://ismyideavalid.com",
+      "https://userfollowup.com",
+      "https://designerdevchecklist.com",
+      "https://techcompanylayoffs.com",
+      "https://designgandalf.com/get-leads-for-free"
+    ],
+    "website": "https://ismyideavalid.com"
   },
   {
     "slug": "taha",
@@ -917,7 +1735,11 @@
     "handle": "Requestycom",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a158eed2294d4f257c61431/portrait-1779842187455.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://requesty.com"
+    ],
+    "website": "https://requesty.com"
   },
   {
     "slug": "shippedbytim",
@@ -925,7 +1747,11 @@
     "handle": "shippedbytim",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a158d802294d4f257c61409/portrait-1779797712247.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://commune.build"
+    ],
+    "website": "https://commune.build"
   },
   {
     "slug": "mailman",
@@ -933,7 +1759,11 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a158a202294d4f257c613ce/portrait-1779797084581.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://inboxprocess.com"
+    ],
+    "website": "https://inboxprocess.com"
   },
   {
     "slug": "tiby",
@@ -941,7 +1771,11 @@
     "handle": "0xtiby",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1589642294d4f257c613c2/portrait-1779825226087.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://tstack.dev"
+    ],
+    "website": "https://tstack.dev"
   },
   {
     "slug": "viis",
@@ -949,7 +1783,9 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1582d92294d4f257c61315/portrait-1779795374366.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "vlad",
@@ -957,15 +1793,28 @@
     "handle": "theshuster",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1582712294d4f257c6130d/portrait-1779796992570.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://driftcheck.io"
+    ],
+    "website": "https://driftcheck.io"
   },
   {
     "slug": "taras",
     "name": "Taras",
     "handle": "tarasshyn",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1582362294d4f257c61308/portrait-1779794750038.png",
-    "startupsShipped": 4,
-    "status": "On Deck"
+    "startupsShipped": 5,
+    "status": "On Deck",
+    "websites": [
+      "https://flowsery.com/features/ai-session-replay",
+      "https://square.redreplier.com",
+      "https://clawoneclick.com",
+      "https://adaptlypost.com",
+      "https://flowsery.com",
+      "https://redreplier.com"
+    ],
+    "website": "https://flowsery.com/features/ai-session-replay"
   },
   {
     "slug": "maukka",
@@ -973,15 +1822,24 @@
     "handle": "mariluukkainen",
     "portraitUrl": "",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://associatify.org",
+      "https://vilho.app"
+    ],
+    "website": "https://associatify.org"
   },
   {
     "slug": "eduardnpetrache",
     "name": "eduardnpetrache",
     "handle": "eduardnpetrache",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1581522294d4f257c612f8/portrait-1779796004456.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://gamegrad.app"
+    ],
+    "website": "https://gamegrad.app"
   },
   {
     "slug": "testosteronny",
@@ -989,7 +1847,11 @@
     "handle": "Testosteronny_",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157fa52294d4f257c612ce/portrait-1779794804084.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://sueleli.ch"
+    ],
+    "website": "https://sueleli.ch"
   },
   {
     "slug": "lexi",
@@ -997,7 +1859,11 @@
     "handle": "therotobo",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157f322294d4f257c612c5/portrait-1779822283369.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://oneiron.dev"
+    ],
+    "website": "https://oneiron.dev"
   },
   {
     "slug": "toby-bootstrap-marshman",
@@ -1005,7 +1871,9 @@
     "handle": "tobymarshman",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157d642294d4f257c6127f/portrait-1779795245559.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "janis-ozolins",
@@ -1013,23 +1881,34 @@
     "handle": "OzolinsJanis",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157d352294d4f257c6120a/portrait-1779793325228.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://customcreatorsystem.com"
+    ],
+    "website": "https://customcreatorsystem.com"
   },
   {
     "slug": "jdi-minisoul",
     "name": "JDI MINISOUL",
     "handle": "jdi_minisoul",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157d1b2294d4f257c61209/portrait-1779793327901.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
-    "slug": "ogtayhuseynov0",
-    "name": "ogtayhuseynov0",
+    "slug": "ogtay",
+    "name": "Ogtay",
     "handle": "ogtayhuseynov0",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157bea2294d4f257c611ee/portrait-1779794277336.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://macautocomplete.com",
+      "https://voicedouble.app"
+    ],
+    "website": "https://macautocomplete.com"
   },
   {
     "slug": "yann",
@@ -1037,7 +1916,11 @@
     "handle": "YannInParadise",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157b662294d4f257c611e5/portrait-1779793749231.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://somewhere.fyi"
+    ],
+    "website": "https://somewhere.fyi"
   },
   {
     "slug": "ewan",
@@ -1045,7 +1928,11 @@
     "handle": "ewanmarshalsay",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157b352294d4f257c611e0/portrait-1779874103932.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://dailyukrainian.com"
+    ],
+    "website": "https://dailyukrainian.com"
   },
   {
     "slug": "isk",
@@ -1053,7 +1940,9 @@
     "handle": "",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157a692294d4f257c611c7/portrait-1780219337269.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "zid",
@@ -1061,7 +1950,11 @@
     "handle": "_zidkim",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://kaijubeam.com"
+    ],
+    "website": "https://kaijubeam.com"
   },
   {
     "slug": "hb",
@@ -1069,7 +1962,11 @@
     "handle": "afterhoursHB",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a157a162294d4f257c611b5/portrait-1779852238856.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://fixmyoffer.ai"
+    ],
+    "website": "https://fixmyoffer.ai"
   },
   {
     "slug": "pavel",
@@ -1077,7 +1974,9 @@
     "handle": "schfkt",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15788d2294d4f257c6119f/portrait-1779792214215.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "captain-shipsit",
@@ -1085,7 +1984,11 @@
     "handle": "johnnyshipsit",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1572952294d4f257c61157/portrait-1779849179261.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://saasboxhq.com"
+    ],
+    "website": "https://saasboxhq.com"
   },
   {
     "slug": "robin-monteiro",
@@ -1093,7 +1996,12 @@
     "handle": "go_to_rob",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a156f292294d4f257c6112e/portrait-1779800792450.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://aitachyon.com",
+      "https://dont-trustmrr.com"
+    ],
+    "website": "https://aitachyon.com"
   },
   {
     "slug": "four-eyed-pete",
@@ -1101,7 +2009,12 @@
     "handle": "petersindex",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a156bb12294d4f257c61110/portrait-1779862003853.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://chonky.one",
+      "https://petersindex.com/shipkit"
+    ],
+    "website": "https://chonky.one"
   },
   {
     "slug": "alper-tunga",
@@ -1109,7 +2022,11 @@
     "handle": "altudev",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a156b452294d4f257c61108/portrait-1779789015003.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://nodestory.ai"
+    ],
+    "website": "https://nodestory.ai"
   },
   {
     "slug": "alexintosh",
@@ -1117,7 +2034,11 @@
     "handle": "Alexintosh",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a156ac62294d4f257c610f6/portrait-1779788793694.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://specchio.space"
+    ],
+    "website": "https://specchio.space"
   },
   {
     "slug": "rouzbeh",
@@ -1125,7 +2046,12 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1569ae2294d4f257c610e6/portrait-1779789850462.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://nostril.app",
+      "https://lighthouse.build"
+    ],
+    "website": "https://nostril.app"
   },
   {
     "slug": "george",
@@ -1133,7 +2059,12 @@
     "handle": "thegeorge",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15670c2294d4f257c610c6/portrait-1779787740765.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://socialit.com",
+      "https://emailit.com"
+    ],
+    "website": "https://socialit.com"
   },
   {
     "slug": "narcissus",
@@ -1141,7 +2072,11 @@
     "handle": "13_narcissus",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1560e72294d4f257c61065/portrait-1779790454379.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://fewcookies.com"
+    ],
+    "website": "https://fewcookies.com"
   },
   {
     "slug": "andres-arismendy",
@@ -1149,7 +2084,11 @@
     "handle": "AndrewArismendy",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a155c322294d4f257c61032/portrait-1780079148629.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://musilock.com"
+    ],
+    "website": "https://musilock.com"
   },
   {
     "slug": "captain-shortcut",
@@ -1157,15 +2096,23 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a155b722294d4f257c61027/portrait-1779784823512.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://traveletta.app"
+    ],
+    "website": "https://traveletta.app"
   },
   {
     "slug": "jake",
     "name": "Jake",
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a155b2a2294d4f257c61023/portrait-1779784580487.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://dwighthq.com"
+    ],
+    "website": "https://dwighthq.com"
   },
   {
     "slug": "onur",
@@ -1173,15 +2120,21 @@
     "handle": "OnurYork",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a155b012294d4f257c61022/portrait-1779784610970.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://patchreminder.app"
+    ],
+    "website": "https://patchreminder.app"
   },
   {
     "slug": "beket-bayomir",
     "name": "Beket Bayomir",
     "handle": "beketbayomir",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1557b72294d4f257c60ff7/portrait-1779801804450.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "jas-bindra",
@@ -1189,7 +2142,11 @@
     "handle": "jas_bindra",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://lyfestyle-app.com"
+    ],
+    "website": "https://lyfestyle-app.com"
   },
   {
     "slug": "henno",
@@ -1197,7 +2154,11 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15524e2294d4f257c60e2d/portrait-1779875754516.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://scrollcheck.app"
+    ],
+    "website": "https://scrollcheck.app"
   },
   {
     "slug": "denis",
@@ -1205,7 +2166,9 @@
     "handle": "",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1551642294d4f257c60c82/portrait-1779796918323.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "davis-nabutovskis",
@@ -1213,7 +2176,11 @@
     "handle": "nabutovskis",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a154e2b2294d4f257c60324/portrait-1779782121962.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://firstx.aero"
+    ],
+    "website": "https://firstx.aero"
   },
   {
     "slug": "a-da-ken-demirel",
@@ -1221,7 +2188,11 @@
     "handle": "ck_demirel",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1546592294d4f257c5e312/portrait-1779783754492.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://ahoy.ad"
+    ],
+    "website": "https://ahoy.ad"
   },
   {
     "slug": "manuel",
@@ -1229,7 +2200,11 @@
     "handle": "manuelzamora",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1543e92294d4f257c5d8aa/portrait-1779812163445.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://rivalize.ai"
+    ],
+    "website": "https://rivalize.ai"
   },
   {
     "slug": "captain-heera",
@@ -1237,7 +2212,11 @@
     "handle": "ashish__hirpara",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1537772294d4f257c5a63a/portrait-1779863353567.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://2subs.co"
+    ],
+    "website": "https://2subs.co"
   },
   {
     "slug": "jayson",
@@ -1245,15 +2224,24 @@
     "handle": "jsonsiocson",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1536e02294d4f257c5a3e0/portrait-1779933063179.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://aigardendesign.co"
+    ],
+    "website": "https://aigardendesign.co"
   },
   {
     "slug": "johnjohn",
     "name": "johnjohn",
     "handle": "_johnjohnnn",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1530932294d4f257c58a23/portrait-1779805049185.png",
-    "startupsShipped": 1,
-    "status": "On Deck"
+    "startupsShipped": 2,
+    "status": "On Deck",
+    "websites": [
+      "https://getbask.app",
+      "https://ollyposture.com"
+    ],
+    "website": "https://getbask.app"
   },
   {
     "slug": "ivan-golovach",
@@ -1261,7 +2249,11 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a152e992294d4f257c5823a/portrait-1779843478574.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://usemealmark.com"
+    ],
+    "website": "https://usemealmark.com"
   },
   {
     "slug": "ybouane",
@@ -1269,7 +2261,11 @@
     "handle": "ybouane",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a152c592294d4f257c578b3/portrait-1779803303299.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://supra-3d-capture.sktch.io"
+    ],
+    "website": "https://supra-3d-capture.sktch.io"
   },
   {
     "slug": "saschthetasch",
@@ -1277,7 +2273,9 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a152adb2294d4f257c5728d/portrait-1779789478063.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "charlie-coppinger",
@@ -1285,7 +2283,11 @@
     "handle": "thecoppinger",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1521512294d4f257c54a39/portrait-1779836448810.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://prespec.ai"
+    ],
+    "website": "https://prespec.ai"
   },
   {
     "slug": "woocassh",
@@ -1293,7 +2295,9 @@
     "handle": "woocassh",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a151ee02294d4f257c54007/portrait-1779808899099.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "adam-north",
@@ -1301,7 +2305,11 @@
     "handle": "adam_north11",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a151da12294d4f257c53ae7/portrait-1779786605671.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://giftheard.com"
+    ],
+    "website": "https://giftheard.com"
   },
   {
     "slug": "jp",
@@ -1309,7 +2317,11 @@
     "handle": "jpdtx",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://azli.ai"
+    ],
+    "website": "https://azli.ai"
   },
   {
     "slug": "lilfrogdev",
@@ -1317,7 +2329,11 @@
     "handle": "lilfrogdev",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://vulnfrog.com"
+    ],
+    "website": "https://vulnfrog.com"
   },
   {
     "slug": "lawrence",
@@ -1325,7 +2341,11 @@
     "handle": "Hey_builds",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15186d2294d4f257c524f7/portrait-1779785457313.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://distributionos.dev"
+    ],
+    "website": "https://distributionos.dev"
   },
   {
     "slug": "right-jeong",
@@ -1333,7 +2353,11 @@
     "handle": "RIGHT12691931",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15173a2294d4f257c51fdd/portrait-1779797777770.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://dalsoop.com"
+    ],
+    "website": "https://dalsoop.com"
   },
   {
     "slug": "dan-b",
@@ -1341,15 +2365,23 @@
     "handle": "BachelderDan",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1517192294d4f257c51f5f/portrait-1779806562098.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://slopcast.com"
+    ],
+    "website": "https://slopcast.com"
   },
   {
     "slug": "jaco",
     "name": "Jaco",
     "handle": "jacomakes",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1514fd2294d4f257c516eb/portrait-1779782125695.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://findmyangle.com"
+    ],
+    "website": "https://findmyangle.com"
   },
   {
     "slug": "avi",
@@ -1357,7 +2389,9 @@
     "handle": "aviaryan123",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "haysm-hakim",
@@ -1365,7 +2399,11 @@
     "handle": "HaythamHakimX",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1513e12294d4f257c5124c/portrait-1779821041864.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://jrnly.app"
+    ],
+    "website": "https://jrnly.app"
   },
   {
     "slug": "nil",
@@ -1373,15 +2411,24 @@
     "handle": "_nilni",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15120d2294d4f257c50ad5/portrait-1779812786272.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://traffic.tools",
+      "https://babyfoodtracker.com"
+    ],
+    "website": "https://traffic.tools"
   },
   {
     "slug": "dav",
     "name": "Dav",
     "handle": "davafons_dev",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1511312294d4f257c5077d/portrait-1779787142994.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://wariwari.jp/en"
+    ],
+    "website": "https://wariwari.jp/en"
   },
   {
     "slug": "andrrrrrreas",
@@ -1389,7 +2436,21 @@
     "handle": "AndreasPitzer",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15110c2294d4f257c506f7/portrait-1780048323753.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://showtimemac.com"
+    ],
+    "website": "https://showtimemac.com"
+  },
+  {
+    "slug": "darren",
+    "name": "Darren",
+    "handle": "yarget1990",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a150e512294d4f257c4fbe9/portrait-1780744292587.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "anni-maan",
@@ -1397,7 +2458,11 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a150aa52294d4f257c4ed09/portrait-1779828445954.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://nextbunny.co"
+    ],
+    "website": "https://nextbunny.co"
   },
   {
     "slug": "cap-n-ej",
@@ -1405,7 +2470,9 @@
     "handle": "elliottjohnston",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1506972294d4f257c4dcbd/portrait-1779793814261.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "tentadev",
@@ -1413,7 +2480,11 @@
     "handle": "DevTenta",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a15022b2294d4f257c4d8ef/portrait-1779787633790.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://indiechains.com"
+    ],
+    "website": "https://indiechains.com"
   },
   {
     "slug": "churnbeard",
@@ -1421,7 +2492,11 @@
     "handle": "ashwathr",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14fb5c2294d4f257c4d884/portrait-1779832383214.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://mapfrommemory.com"
+    ],
+    "website": "https://mapfrommemory.com"
   },
   {
     "slug": "arian",
@@ -1429,15 +2504,23 @@
     "handle": "ariangokhale",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://tether-app.io"
+    ],
+    "website": "https://tether-app.io"
   },
   {
-    "slug": "captain-ironbeard-a-k-a-alan-silveira",
-    "name": "Captain Ironbeard (A.K.A Alan Silveira)",
+    "slug": "alan-silveira",
+    "name": "Alan Silveira",
     "handle": "alangsilveira",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14ead12294d4f257c4d7c4/portrait-1779796424343.png",
-    "startupsShipped": 1,
-    "status": "On Deck"
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://tryhealthzap.com"
+    ],
+    "website": "https://tryhealthzap.com"
   },
   {
     "slug": "jason-chiu",
@@ -1445,7 +2528,11 @@
     "handle": "jasonwchiu",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14e7e42294d4f257c4d797/portrait-1779808012889.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://schoolscout.com.au"
+    ],
+    "website": "https://schoolscout.com.au"
   },
   {
     "slug": "bas-fijneman",
@@ -1453,7 +2540,11 @@
     "handle": "bas_fijneman",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14e5132294d4f257c4d778/portrait-1779754518311.png",
     "startupsShipped": 1,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://pufferpages.com"
+    ],
+    "website": "https://pufferpages.com"
   },
   {
     "slug": "ahmed-sultan",
@@ -1461,7 +2552,9 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14dda92294d4f257c4d6f5/portrait-1779752645850.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "code-with-antonio",
@@ -1469,7 +2562,9 @@
     "handle": "codewithantonio",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "geo",
@@ -1477,7 +2572,11 @@
     "handle": "geo_yacoub",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14d5fb2294d4f257c4d6a1/portrait-1779750599515.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://getaibookbuddy.com"
+    ],
+    "website": "https://getaibookbuddy.com"
   },
   {
     "slug": "katalystkat",
@@ -1485,7 +2584,11 @@
     "handle": "katalyst_katt",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14cc672294d4f257c4d63a/portrait-1779751545412.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://lucenda.org"
+    ],
+    "website": "https://lucenda.org"
   },
   {
     "slug": "graf-julius",
@@ -1493,7 +2596,11 @@
     "handle": "JuliusPaulRu",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14c90d2294d4f257c4d60e/portrait-1779901129611.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://ranking.place/visits"
+    ],
+    "website": "https://ranking.place/visits"
   },
   {
     "slug": "ryan-j-shaw",
@@ -1501,7 +2608,11 @@
     "handle": "RyanJamesShaw",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14c1892294d4f257c4d5ae/portrait-1780054509228.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://thisweek.co.za"
+    ],
+    "website": "https://thisweek.co.za"
   },
   {
     "slug": "calypso-queen",
@@ -1509,7 +2620,11 @@
     "handle": "Jessyka_Boat",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14c1482294d4f257c4d5ab/portrait-1779746916683.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://slappost.app"
+    ],
+    "website": "https://slappost.app"
   },
   {
     "slug": "radunemerenco",
@@ -1517,15 +2632,23 @@
     "handle": "radunemerenco",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14c09a2294d4f257c4d5a6/portrait-1779746809425.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://foodplanai.app"
+    ],
+    "website": "https://foodplanai.app"
   },
   {
     "slug": "falleco",
     "name": "Falleco",
     "handle": "icrisanto",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14bfc32294d4f257c4d59d/portrait-1779747182985.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://scrapunk.com"
+    ],
+    "website": "https://scrapunk.com"
   },
   {
     "slug": "chris-ashby",
@@ -1533,15 +2656,23 @@
     "handle": "chris_bgp",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14bda82294d4f257c4d57c/portrait-1779744299794.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://skribe.dev"
+    ],
+    "website": "https://skribe.dev"
   },
   {
     "slug": "vincz",
     "name": "vincz",
     "handle": "imvincz",
     "portraitUrl": "",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://colect.ing"
+    ],
+    "website": "https://colect.ing"
   },
   {
     "slug": "crutchtheclutch",
@@ -1549,7 +2680,11 @@
     "handle": "crutchtheclutch",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14bb532294d4f257c4d55c/portrait-1779815981756.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://formbro.com"
+    ],
+    "website": "https://formbro.com"
   },
   {
     "slug": "roubert",
@@ -1557,15 +2692,23 @@
     "handle": "roubertvava",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14ba132294d4f257c4d54d/portrait-1780167460896.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://asktotle.com"
+    ],
+    "website": "https://asktotle.com"
   },
   {
     "slug": "rich-vieren",
     "name": "Rich Vieren",
     "handle": "richvieren",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14b9902294d4f257c4d547/portrait-1779743469525.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://lore.mov"
+    ],
+    "website": "https://lore.mov"
   },
   {
     "slug": "dmytro-katyukha",
@@ -1573,7 +2716,14 @@
     "handle": "D1mKat",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14b5e52294d4f257c4d4fe/portrait-1779915712882.png",
     "startupsShipped": 3,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://vocaland.app",
+      "https://trywyr.com",
+      "https://getcalendarly.com",
+      "https://wallper.app"
+    ],
+    "website": "https://vocaland.app"
   },
   {
     "slug": "marian-andr",
@@ -1581,15 +2731,23 @@
     "handle": "marianandre",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14b5262294d4f257c4d4e9/portrait-1779742085470.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://hyperrelease.com"
+    ],
+    "website": "https://hyperrelease.com"
   },
   {
     "slug": "chirag-asarpota",
     "name": "Chirag Asarpota",
-    "handle": "https",
+    "handle": "ChiragAsarpota",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14b4d82294d4f257c4d4e8/portrait-1779743040499.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://kapture.to"
+    ],
+    "website": "https://kapture.to"
   },
   {
     "slug": "andy",
@@ -1597,7 +2755,11 @@
     "handle": "zhomag",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14b4862294d4f257c4d4e6/portrait-1779742970833.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://wayfern.com"
+    ],
+    "website": "https://wayfern.com"
   },
   {
     "slug": "alexislamouv",
@@ -1605,7 +2767,11 @@
     "handle": "Alexislamouv",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14af4e2294d4f257c4d483/portrait-1779742001072.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://bikequest.app"
+    ],
+    "website": "https://bikequest.app"
   },
   {
     "slug": "dan-k",
@@ -1613,7 +2779,11 @@
     "handle": "DanKWrites",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14a7202294d4f257c4d3ce/portrait-1779745627809.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://getlimberapp.com"
+    ],
+    "website": "https://getlimberapp.com"
   },
   {
     "slug": "blane",
@@ -1621,15 +2791,25 @@
     "handle": "https",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14a5ef2294d4f257c4d39d/portrait-1780187290329.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://getkappi.com"
+    ],
+    "website": "https://getkappi.com"
   },
   {
     "slug": "dmytro-virych",
     "name": "Dmytro Virych",
     "handle": "dmytrovirych",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14a29f2294d4f257c4d296/portrait-1779743090055.png",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "startupsShipped": 2,
+    "status": "On Deck",
+    "websites": [
+      "https://envly.app",
+      "https://tinycrm.dev",
+      "https://redirectly.app"
+    ],
+    "website": "https://envly.app"
   },
   {
     "slug": "dairon-canel",
@@ -1637,7 +2817,11 @@
     "handle": "daicandev",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14a1602294d4f257c4d277/portrait-1779742943808.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://getproven.io"
+    ],
+    "website": "https://getproven.io"
   },
   {
     "slug": "anthony-riera",
@@ -1645,7 +2829,11 @@
     "handle": "anthonyriera",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a149ea82294d4f257c4d23d/portrait-1779738151194.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://rankhog.com"
+    ],
+    "website": "https://rankhog.com"
   },
   {
     "slug": "luis-rampolla",
@@ -1653,7 +2841,11 @@
     "handle": "iflessthan3",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a149af52294d4f257c4d1de/portrait-1779742619248.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://webifypdf.com"
+    ],
+    "website": "https://webifypdf.com"
   },
   {
     "slug": "sid",
@@ -1661,7 +2853,11 @@
     "handle": "https",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://baldandwinning.com"
+    ],
+    "website": "https://baldandwinning.com"
   },
   {
     "slug": "luckforest",
@@ -1669,7 +2865,11 @@
     "handle": "lubinho_k",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1498fd2294d4f257c4d19f/portrait-1779787242744.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://displayaqi.com"
+    ],
+    "website": "https://displayaqi.com"
   },
   {
     "slug": "calico-belle",
@@ -1677,7 +2877,11 @@
     "handle": "",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a12a1ad2294d4f257c0dda4/portrait-1779606074291.png",
     "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "On Deck",
+    "websites": [
+      "https://elise.club"
+    ],
+    "website": "https://elise.club"
   },
   {
     "slug": "peg-leg-pete",
@@ -1685,7 +2889,9 @@
     "handle": "",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a11f9032294d4f257bebc40/portrait-1779562920389.png",
     "startupsShipped": 0,
-    "status": "Overboard"
+    "status": "Overboard",
+    "websites": [],
+    "website": ""
   },
   {
     "slug": "davy-bones",
@@ -1693,7 +2899,12 @@
     "handle": "",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a111f97028b8535e8ae8583/portrait-1779507817188.png",
     "startupsShipped": 2,
-    "status": "Overboard"
+    "status": "Overboard",
+    "websites": [
+      "https://tset.ocm",
+      "https://doestexist.com"
+    ],
+    "website": "https://tset.ocm"
   },
   {
     "slug": "saltbeard",
@@ -1701,22 +2912,8 @@
     "handle": "",
     "portraitUrl": "",
     "startupsShipped": 0,
-    "status": "Overboard"
-  },
-  {
-    "slug": "mari",
-    "name": "Pirate not found",
-    "handle": "",
-    "portraitUrl": "",
-    "startupsShipped": 0,
-    "status": "On Deck"
-  },
-  {
-    "slug": "slow-",
-    "name": "Pirate not found",
-    "handle": "",
-    "portraitUrl": "",
-    "startupsShipped": 0,
-    "status": "On Deck"
+    "status": "Overboard",
+    "websites": [],
+    "website": ""
   }
 ]

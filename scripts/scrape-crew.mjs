@@ -3,8 +3,11 @@
  *
  * The homepage lists every crew member as a `/u/<slug>` link; each profile page
  * carries the member's display name, X/Twitter handle and the website's own
- * pirate-portrait avatar (hosted on CloudFront). We fetch the roster, then each
- * profile, and write the raw result to data/crew-raw.json.
+ * pirate-portrait avatar (hosted on CloudFront). Each profile also lists the
+ * member's shipped startups as `/u/<slug>/ship/<id>` cards; the ship detail page
+ * carries the product's "Visit site" link, which is the only place the member's
+ * own website(s) are exposed. We fetch the roster, then each profile and its ship
+ * pages, and write the raw result to data/crew-raw.json.
  *
  * Run:  node scripts/scrape-crew.mjs
  */
@@ -27,6 +30,35 @@ const fetchText = async (url) => {
 };
 
 const extractSlugs = (html) => [...new Set([...html.matchAll(/\/u\/([a-z0-9-]+)/g)].map((m) => m[1]))];
+
+const extractShipIds = (html) => [...new Set([...html.matchAll(/\/u\/[a-z0-9-]+\/ship\/([a-f0-9]{24})/g)].map((m) => m[1]))];
+
+// The product URL lives behind the ship detail page's "Visit site" anchor. The
+// platform itself (ship-or-die.com) is the default link when a startup has no
+// real site of its own, so it is not a member website — drop it.
+const fetchShipSite = async (slug, id) => {
+  const html = await fetchText(`https://www.ship-or-die.com/u/${slug}/ship/${id}`);
+  const json = html.replace(/\\"/g, '"');
+  const url = (json.match(/"href":"(https?:\/\/[^"]+)","target":"_blank"[^}]*?"children":\["Visit site/) || [])[1] || '';
+
+  return /(^|\/\/)(www\.)?ship-or-die\.com/.test(url) ? '' : url;
+};
+
+const fetchWebsites = async (slug, ids) => {
+  const sites = [];
+
+  for (const id of ids) {
+    try {
+      const url = await fetchShipSite(slug, id);
+
+      if (url && !sites.includes(url)) sites.push(url);
+    } catch {
+      // A single unreachable ship page must not blank the member's whole entry.
+    }
+  }
+
+  return sites;
+};
 
 const parseProfile = (slug, html) => {
   const rawTitle = (html.match(/<title>([^<]+)<\/title>/) || [])[1] || '';
@@ -104,12 +136,13 @@ const main = async () => {
   const members = await runPool(slugs, async (slug) => {
     const html = await fetchText(`https://www.ship-or-die.com/u/${slug}`);
     const member = parseProfile(slug, html);
+    const websites = await fetchWebsites(slug, extractShipIds(html));
 
     done += 1;
 
     if (done % 25 === 0) console.log(`  ...${done}/${slugs.length}`);
 
-    return member;
+    return { ...member, websites, website: websites[0] || '' };
   });
 
   const ok = members.filter((m) => m && !m.error && m.name);
@@ -121,6 +154,7 @@ const main = async () => {
   console.log(`\nWrote ${ok.length} members to data/crew-raw.json`);
   console.log(`  with portrait: ${ok.filter((m) => m.portraitUrl).length}`);
   console.log(`  with handle:   ${ok.filter((m) => m.handle).length}`);
+  console.log(`  with website:  ${ok.filter((m) => m.website).length}`);
   console.log(`  total startups shipped: ${ok.reduce((sum, m) => sum + (m.startupsShipped || 0), 0)}`);
 
   if (failed.length) console.log(`  failed: ${failed.length} (${failed.slice(0, 5).map((f) => f.slug).join(', ')}...)`);

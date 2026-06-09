@@ -92,6 +92,8 @@ const members = raw.map((m, index) => {
     avatar: `/crew-avatars/${m.slug}.png`,
     portraitSrc: m.portraitUrl || '',
     profileUrl: m.handle ? `https://x.com/${m.handle}` : `https://www.ship-or-die.com/u/${m.slug}`,
+    website: m.website || '',
+    websites: m.websites || [],
     bubble: pick(BUBBLES, index),
     posts,
   };
@@ -100,3 +102,4 @@ const members = raw.map((m, index) => {
 writeFileSync(resolve(dataDir, 'members.json'), JSON.stringify({ members }, null, 2) + '\n');
 console.log(`Wrote ${members.length} crew members to data/members.json`);
 console.log(`  with website portrait: ${members.filter((m) => m.portraitSrc).length}`);
+console.log(`  with website:          ${members.filter((m) => m.website).length}`);

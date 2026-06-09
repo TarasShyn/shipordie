@@ -1,9 +1,13 @@
 {
+  // RETIRED: the hourly post sync was killed to stop draining API usage. The
+  // deployed `shipordie-cron` Worker has been deleted from Cloudflare and the
+  // schedule below is intentionally empty so a stray `wrangler deploy` can't
+  // resurrect it. The ship now serves the frozen timeline straight from KV.
   "name": "shipordie-cron",
   "main": "src/index.js",
   "compatibility_date": "2025-04-01",
   "triggers": {
-    "crons": ["0 * * * *"]
+    "crons": []
   },
   "observability": {
     "enabled": true

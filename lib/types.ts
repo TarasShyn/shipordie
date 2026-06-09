@@ -41,6 +41,8 @@ export interface CrewMember {
   rank: CrewRank;
   avatar: string;
   profileUrl: string;
+  website: string;
+  websites: string[];
   bubble: string;
   posts: CrewPost[];
 }

@@ -97,14 +97,26 @@ const PostsModal = ({ member, onClose }: PostsModalProps) => (
         <button type="button" onClick={onClose} className="cursor-pointer rounded-lg px-4 py-2 text-sm font-semibold text-slate-600 hover:bg-slate-200">
           Back to the ship
         </button>
-        <a
-          href={member.profileUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="cursor-pointer rounded-lg bg-slate-900 px-5 py-2 text-sm font-semibold text-white hover:bg-slate-700"
-        >
-          View @{member.handle} on X ↗
-        </a>
+        <div className="flex items-center gap-2">
+          {member.website && (
+            <a
+              href={member.website}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="cursor-pointer rounded-lg border border-slate-300 px-4 py-2 text-sm font-semibold text-slate-700 hover:bg-slate-100"
+            >
+              Visit site ↗
+            </a>
+          )}
+          <a
+            href={member.profileUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="cursor-pointer rounded-lg bg-slate-900 px-5 py-2 text-sm font-semibold text-white hover:bg-slate-700"
+          >
+            View @{member.handle} on X ↗
+          </a>
+        </div>
       </div>
     </article>
   </div>
