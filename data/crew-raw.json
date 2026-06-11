@@ -31,6 +31,95 @@
     "website": "https://lovelee-app.com"
   },
   {
+    "slug": "gelato",
+    "name": "Gelato",
+    "handle": "",
+    "portraitUrl": "",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "captain-strongbow",
+    "name": "Captain Strongbow",
+    "handle": "manfredbreber",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a298180ddb582b7c1188eb8/portrait-1781107746400.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "lucas-bassetti",
+    "name": "Lucas Bassetti",
+    "handle": "LucasBassetti",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a2968d6ddb582b7c1188bf1/portrait-1781098810887.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://hivemind.lol"
+    ],
+    "website": "https://hivemind.lol"
+  },
+  {
+    "slug": "jeremy-redman",
+    "name": "jeremy redman",
+    "handle": "thejeremyredman",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a28f453ddb582b7c1188014/portrait-1781069172436.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "solah-idris",
+    "name": "Solah Idris",
+    "handle": "solahidris_",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a28d665ddb582b7c118796a/portrait-1781070024556.png",
+    "startupsShipped": 1,
+    "status": "On Deck",
+    "websites": [
+      "https://solodeath.com",
+      "https://skibidirot.com"
+    ],
+    "website": "https://solodeath.com"
+  },
+  {
+    "slug": "brady",
+    "name": "Brady",
+    "handle": "Bradydigital",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a285fd9ddb582b7c1185e7d/portrait-1781031003250.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "kkr",
+    "name": "KKR",
+    "handle": "KKRvlog",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a280edaddb582b7c1184d18/portrait-1781012485672.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://bordereaufacile.fr"
+    ],
+    "website": "https://bordereaufacile.fr"
+  },
+  {
+    "slug": "mert",
+    "name": "mert",
+    "handle": "mertnesvat",
+    "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a27fe51ddb582b7c1184a93/portrait-1781013415934.png",
+    "startupsShipped": 0,
+    "status": "On Deck",
+    "websites": [
+      "https://dstll.io"
+    ],
+    "website": "https://dstll.io"
+  },
+  {
     "slug": "captainshazza",
     "name": "CaptainShazza",
     "handle": "Shironbuilds",
@@ -103,10 +192,11 @@
     "name": "Ezzaky Ab",
     "handle": "ezzakyyy",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a259bb1ddb582b7c115694b/portrait-1780852516622.png",
-    "startupsShipped": 0,
+    "startupsShipped": 1,
     "status": "On Deck",
     "websites": [
-      "https://smtpkit.com"
+      "https://smtpkit.com",
+      "https://moooneyai.com"
     ],
     "website": "https://smtpkit.com"
   },
@@ -129,8 +219,10 @@
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a257a58ddb582b7c1154be9/portrait-1780842831293.png",
     "startupsShipped": 0,
     "status": "On Deck",
-    "websites": [],
-    "website": ""
+    "websites": [
+      "https://bjjunlock.com"
+    ],
+    "website": "https://bjjunlock.com"
   },
   {
     "slug": "omaarrrrghh",
@@ -348,7 +440,7 @@
     "name": "Robert G",
     "handle": "nxgntools",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a1fb4252294d4f257c75a6d/portrait-1780462864067.png",
-    "startupsShipped": 3,
+    "startupsShipped": 4,
     "status": "On Deck",
     "websites": [
       "https://chessie.nxgntools.com",
@@ -624,11 +716,12 @@
     "startupsShipped": 3,
     "status": "On Deck",
     "websites": [
+      "https://pickoo.app",
       "https://tryhearit.com",
       "https://nexpend.com",
       "https://swiftship.dev"
     ],
-    "website": "https://tryhearit.com"
+    "website": "https://pickoo.app"
   },
   {
     "slug": "jihoonh",
@@ -1718,10 +1811,14 @@
     "name": "Skelleyboy",
     "handle": "dannyskelley",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a158f312294d4f257c61435/portrait-1779798267428.png",
-    "startupsShipped": 5,
+    "startupsShipped": 9,
     "status": "On Deck",
     "websites": [
       "https://ismyideavalid.com",
+      "https://reviewsrescue.com",
+      "https://redditlauncher.com",
+      "https://shipbylunch.com",
+      "https://xcoacher.com",
       "https://userfollowup.com",
       "https://designerdevchecklist.com",
       "https://techcompanylayoffs.com",
@@ -2036,9 +2133,9 @@
     "startupsShipped": 0,
     "status": "On Deck",
     "websites": [
-      "https://specchio.space"
+      "https://mirroringforiphone.com"
     ],
-    "website": "https://specchio.space"
+    "website": "https://mirroringforiphone.com"
   },
   {
     "slug": "rouzbeh",
@@ -2679,10 +2776,11 @@
     "name": "crutchtheclutch",
     "handle": "crutchtheclutch",
     "portraitUrl": "https://djinh5srvzpwp.cloudfront.net/avatars/6a14bb532294d4f257c4d55c/portrait-1779815981756.png",
-    "startupsShipped": 0,
+    "startupsShipped": 1,
     "status": "On Deck",
     "websites": [
-      "https://formbro.com"
+      "https://formbro.com",
+      "https://icandrivers.com"
     ],
     "website": "https://formbro.com"
   },
@@ -2781,9 +2879,9 @@
     "startupsShipped": 0,
     "status": "On Deck",
     "websites": [
-      "https://getlimberapp.com"
+      "https://stopthat.app"
     ],
-    "website": "https://getlimberapp.com"
+    "website": "https://stopthat.app"
   },
   {
     "slug": "blane",
@@ -2913,6 +3011,16 @@
     "portraitUrl": "",
     "startupsShipped": 0,
     "status": "Overboard",
+    "websites": [],
+    "website": ""
+  },
+  {
+    "slug": "cap",
+    "name": "Pirate not found",
+    "handle": "",
+    "portraitUrl": "",
+    "startupsShipped": 0,
+    "status": "On Deck",
     "websites": [],
     "website": ""
   }
